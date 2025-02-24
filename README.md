@@ -1723,6 +1723,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
         </td>
+        <td align="center">
+                <a href="https://github.com/rvrocks212">
+                    <img src="https://avatars.githubusercontent.com/u/110858730?v=4" width="100px;" alt="Rajath Vinod"/>
+                    <br />
+                    <sub><b>Rajath Vinod</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
